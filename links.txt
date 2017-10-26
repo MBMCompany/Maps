@@ -1,0 +1,28 @@
+						HAMRA
+
+Floor1 : 	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor1.svg
+
+Floor2 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor2.svg
+
+Floor3 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor3.svg
+*******************
+F1STANDS :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F1STANDS .svg
+
+F2STANDS :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F2STANDS .svg
+
+F3STANDS :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F3STANDS .svg
+
+-----------------------------------------------------------------------------------------------------
+						AIRPORT
+
+Floor1:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor1.svg
+
+Floor2:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor2.svg
+
+Floor3:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor3.svg
+*******************
+F1STANDS:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F1STANDS.svg
+
+F2STANDS:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F2STANDS.svg
+
+F3STANDS:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F3STANDS.svg
