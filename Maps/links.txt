@@ -7,6 +7,27 @@ Floor2 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Flo
 Floor3 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor3.svg
 
 					*******************
+Floor1 
+  Sections	
+	Kids:  https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F1/KidsHamraStandsF1.svg
+
+	Men:   https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F1/MenHamraStandsF1.svg
+
+	Women: https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F1/WomenenHamraStandsF1.svg
+
+Floor2:
+  Sections
+	Homex:	   https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F2/HomexenHamraStandsF2.svg
+
+	Houseware: https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F2/HousewareHamraStandsF2.svg
+
+	Lingerie:  https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F2/LingerieHamraStandsF2.svg
+
+Floor3:
+  Sections
+	Other:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F3/OthersHamraStandsF3.svg
+
+	RD:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/F3/RDHamraStandsF3.svg
 
 
 
@@ -20,3 +41,27 @@ Floor2:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F
 Floor3:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor3.svg
 
 					*******************
+Floor1 
+  Sections	
+	Lingerie:  https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F1/LingerieHamraStandsF1.svg
+
+	RD:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F1/RDAirStandsF1.svg
+
+	Women: https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F1/WomenenAirStandsF1.svg
+
+Floor2:
+  Sections
+	Kids:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F2/KidsAirStandsF2.svg
+
+	Men: https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F2/MenAirStandsF2.svg
+
+	
+
+Floor3:
+  Sections
+	Homex:	   https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F3/HomexenAirStandsF3.svg
+
+	Houseware: https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F3/HousewareAirStandsF3.svg
+	
+	Other:	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/F3/OthersHamraAirF3.svg
+	
