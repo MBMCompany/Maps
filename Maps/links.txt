@@ -1,0 +1,22 @@
+						HAMRA
+
+Floor1 : 	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor1.svg
+
+Floor2 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor2.svg
+
+Floor3 :	https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Hamra/Floor3.svg
+
+					*******************
+
+
+
+-----------------------------------------------------------------------------------------------------
+						AIRPORT
+
+Floor1:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor1.svg
+
+Floor2:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor2.svg
+
+Floor3:		https://raw.githubusercontent.com/MBMCompany/Maps/master/Maps/Airport/Floor3.svg
+
+					*******************
